@@ -2,3 +2,4 @@
   i. lets try to understand how they do it ...
 2. compare a few choice languages
 3. feed this into the overall model we are after for our main application.
+4. then we need to compare it all briefly.. 
